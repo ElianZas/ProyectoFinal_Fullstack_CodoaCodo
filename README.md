@@ -1,6 +1,7 @@
 # TP INTEGRADOR GRUPAL - JAVA BACKEND FULLSTACK
 
-## ESTRUCTURA DE LA BASE
+## INTEGRANTES
+
 ### Giuliana Zorzoli
 ### Carmina Juarez
 ### Estefania Cardone
